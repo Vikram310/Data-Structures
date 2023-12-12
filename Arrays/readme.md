@@ -2,4 +2,4 @@ Repo containing all problems solved related to Arrays from [Striver's SDE Sheet]
 
 |Day|Problem|Link|
 |---|-------|----|
-|Day-1|Pascal's Triangle||
+|12/12/2023|Pascal's Triangle|https://leetcode.com/problems/pascals-triangle/|
