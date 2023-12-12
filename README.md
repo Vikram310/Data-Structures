@@ -1,7 +1,8 @@
 # Data-Structures
 
-Currently following Striver's SDE Sheet, Solving one problem a Day
+Currently following [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/), Solving one problem a Day
 
-|Day|Problem|Link For Problem|
-|---|-------|----------------|
-|Day - 1|Pascal's Triangle|https://leetcode.com/problems/pascals-triangle/|
+
+|Day|Topic|Problem|Link For Problem|
+|---|-----|-------|----------------|
+|Day - 1|Arrays|Pascal's Triangle|https://leetcode.com/problems/pascals-triangle/|
