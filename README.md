@@ -6,3 +6,4 @@ Currently following [Striver's SDE Sheet](https://takeuforward.org/interviews/st
 |Day|Topic|Problem|Link For Problem|
 |---|-----|-------|----------------|
 |Day - 1|Arrays|Pascal's Triangle|https://leetcode.com/problems/pascals-triangle/|
+|Day - 2|Arrays|Next Permutation|https://leetcode.com/problems/next-permutation/description/|
